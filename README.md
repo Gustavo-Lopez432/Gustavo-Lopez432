@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Gustavo-Lopez432/Gustavo-Lopez432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">I'm a full stack developer</h3>
+<h3 align="center">I'm a full stack developer passionate about learning more every day </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

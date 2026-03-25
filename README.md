@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Passionate about learning every day</h3>
+<h3 align="center">⚙️ Backend Developer | 🚀 Passionate about learning every day</h3>
 
 ---
 
@@ -26,13 +26,26 @@ Here are some ideas to get you started:
 ---
 
 ## 📖 Currently Learning
-- ⚡ FastAPI and project modularization  
+- ⚡ Flask framework for building web applications  
+- 🐍 Django framework for scalable web applications  
 - 🏗️ Backend architecture best practices  
-- 🎨 Visual design of plans and goals with digital tools  
 
 ---
 
 ## 🛠️ Languages and Tools
+
+### ⚙️ Backend
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  </a>
+</p>
 
 ### 🌐 Frontend
 <p align="left">
@@ -47,19 +60,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
 </p>
 

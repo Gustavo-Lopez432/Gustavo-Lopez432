@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a full stack developer passionate about learning more every day </h3>
 
 <h3 align="left">Connect with me:</h3>
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 <p align="left">
 </p>
 

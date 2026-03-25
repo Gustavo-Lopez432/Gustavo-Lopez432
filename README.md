@@ -28,7 +28,15 @@ Here are some ideas to get you started:
 ## 📖 Currently Learning
 - ⚡ Flask framework for building web applications  
 - 🐍 Django framework for scalable web applications  
-- 🏗️ Backend architecture best practices  
+- 🏗️ Backend architecture best practices
+
+## 🎯 Roadmap
+
+- 🎓 Complete my university degree in Software Development  
+- ⚙️ Strengthen backend skills with Flask & Django  
+- 🏗️ Apply backend architecture best practices in real projects  
+- 📌 Build and share open-source projects to gain experience  
+- 🚀 Transition from student to professional backend developer  
 
 ---
 

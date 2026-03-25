@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 ---
 
+## 🧑‍🎓 About Me
+- 🎓 University student in Software Development  
+- ⚙️ Focused on backend technologies (Flask, Django, Python)  
+- 🌱 Passionate about continuous learning and building real-world projects 
+
+---
+
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gustavo_lmpy)

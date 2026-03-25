@@ -87,3 +87,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gustavo_Lopez432&theme=dark)](https://git.io/streak-stats)

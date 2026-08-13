@@ -1,9 +1,6 @@
-
 <!--
 **Gustavo-Lopez432/Gustavo-Lopez432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,49 +17,62 @@ Here are some ideas to get you started:
 ---
 
 ## 🧑‍🎓 About Me
-- 🎓 University student in Software Development  
-- ⚙️ Focused on backend technologies (Flask, Django, Python)  
-- 🌱 Passionate about continuous learning and building real-world projects 
+
+- 🎓 University student in Software Development
+- ⚙️ Focused on backend technologies (Flask, Python)
+- 🌱 Passionate about continuous learning and building real-world projects
 
 ---
 
 ## 🔗 Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gustavo_lmpy)
 
 ---
 
 ## 📖 Currently Learning
-- ⚡ Flask framework for building web applications  
-- 🐍 Django framework for scalable web applications  
+
+- ⚡ Flask framework for building web applications
+- 🐘 PostgreSQL for relational database management
 - 🏗️ Backend architecture best practices
 
 ## 🎯 Roadmap
 
-- 🎓 Complete my university degree in Software Development  
-- ⚙️ Strengthen backend skills with Flask & Django  
-- 🏗️ Apply backend architecture best practices in real projects  
-- 📌 Build and share open-source projects to gain experience  
-- 🚀 Transition from student to professional backend developer  
+- 🎓 Complete my university degree in Software Development
+- ⚙️ Strengthen backend skills with Flask & PostgreSQL
+- 🏗️ Apply backend architecture best practices in real projects
+- 📌 Build and share open-source projects to gain experience
+- 🚀 Transition from student to professional backend developer
 
 ---
 
 ## 🛠️ Languages and Tools
 
 ### ⚙️ Backend
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+  </a>
+  <a href="https://flet.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flet-2196F3?style=for-the-badge&logoColor=white" alt="flet"/>
+  </a>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
 
 ### 🌐 Frontend
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -73,12 +83,10 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
 </p>
 
 ### 🛠️ Tools & DevOps
+
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>

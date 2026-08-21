@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - hola :D
+- :v
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

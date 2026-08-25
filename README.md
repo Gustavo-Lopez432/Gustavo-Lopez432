@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - hola :D
 - :v
 - JAJAJA
+- esto se convertira en mi diario xD
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

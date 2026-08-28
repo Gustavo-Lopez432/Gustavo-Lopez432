@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - esto se convertira en mi diario xD
 - hoy no supe que hacer xd
 - llevo 67 dias sobrependando xd
+- hola de nuevo :v
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

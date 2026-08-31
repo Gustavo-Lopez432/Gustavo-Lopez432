@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - hoy no supe que hacer xd
 - llevo 67 dias sobrependando xd
 - hola de nuevo :v
+- no hice cambios ayer :c
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

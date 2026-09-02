@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - hola de nuevo :v
 - no hice cambios ayer :c
 - ola
+- me estoy quedando sin ideas xd
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

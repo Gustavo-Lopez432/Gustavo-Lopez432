@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - no hice cambios ayer :c
 - ola
 - me estoy quedando sin ideas xd
+- quiero ser FS :c
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

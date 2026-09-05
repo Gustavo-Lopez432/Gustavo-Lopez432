@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ola
 - me estoy quedando sin ideas xd
 - quiero ser FS :c
+- ya no se que poner xd
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

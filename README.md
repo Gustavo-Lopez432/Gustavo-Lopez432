@@ -9,18 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- hola :D
-- :v
-- JAJAJA
-- esto se convertira en mi diario xD
-- hoy no supe que hacer xd
-- llevo 67 dias sobrependando xd
-- hola de nuevo :v
-- no hice cambios ayer :c
-- ola
-- me estoy quedando sin ideas xd
-- quiero ser FS :c
-- ya no se que poner xd
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - borron y cuenta nueva
+- ola
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

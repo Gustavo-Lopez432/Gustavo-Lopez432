@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - borron y cuenta nueva
 - ola
+- adios
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>

@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - borron y cuenta nueva
 - ola
 - adios
+- ohno
 -->
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
